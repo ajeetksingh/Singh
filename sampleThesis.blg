@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: sampleThesis.aux
+The style file: latex8.bst
+Database file #1: sampleBib.bib
+Repeated entry---line 354 of file sampleBib.bib
+ : @article{Manmatha12
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 413 of file sampleBib.bib
+ : @article{Pati
+ :              ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "junejaThesis"
+Warning--I didn't find a database entry for ""
+Warning--to sort, need author or key in tessOCR
+Warning--to sort, need author or key in labelme
+Warning--to sort, need author or key in ethnologue
+Warning--empty journal in Authors06b
+Warning--empty publisher in Hinton12
+You've used 45 entries,
+            2118 wiz_defined-function locations,
+            720 strings with 9640 characters,
+and the built_in function-call counts, 12961 in all, are:
+= -- 1125
+> -- 753
+< -- 1
++ -- 300
+- -- 252
+* -- 771
+:= -- 2229
+add.period$ -- 133
+call.type$ -- 45
+change.case$ -- 260
+chr.to.int$ -- 0
+cite$ -- 50
+duplicate$ -- 556
+empty$ -- 1091
+format.name$ -- 252
+if$ -- 2686
+int.to.chr$ -- 0
+int.to.str$ -- 45
+missing$ -- 42
+newline$ -- 225
+num.names$ -- 84
+pop$ -- 383
+preamble$ -- 1
+purify$ -- 216
+quote$ -- 0
+skip$ -- 335
+stack$ -- 0
+substring$ -- 282
+swap$ -- 78
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 180
+warning$ -- 5
+while$ -- 89
+width$ -- 47
+write$ -- 444
+(There were 2 error messages)

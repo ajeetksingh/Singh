@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Singh_Thesis.aux
+The style file: latex8.bst
+Database file #1: sampleBib.bib
+Warning--I didn't find a database entry for ""
+Warning--to sort, need author or key in junejaThesis
+Warning--to sort, need author or key in colahSite
+Warning--to sort, need author or key in gravesThesis
+Warning--to sort, need author or key in tessOCR
+Warning--to sort, need author or key in labelme
+Warning--to sort, need author or key in ethnologue
+Warning--empty journal in Authors06b
+Warning--empty publisher in Hinton12
+You've used 48 entries,
+            2118 wiz_defined-function locations,
+            730 strings with 9932 characters,
+and the built_in function-call counts, 13438 in all, are:
+= -- 1170
+> -- 756
+< -- 1
++ -- 303
+- -- 252
+* -- 786
+:= -- 2280
+add.period$ -- 139
+call.type$ -- 48
+change.case$ -- 269
+chr.to.int$ -- 0
+cite$ -- 56
+duplicate$ -- 577
+empty$ -- 1160
+format.name$ -- 252
+if$ -- 2806
+int.to.chr$ -- 0
+int.to.str$ -- 48
+missing$ -- 42
+newline$ -- 237
+num.names$ -- 84
+pop$ -- 407
+preamble$ -- 1
+purify$ -- 222
+quote$ -- 0
+skip$ -- 359
+stack$ -- 0
+substring$ -- 297
+swap$ -- 81
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 192
+warning$ -- 8
+while$ -- 89
+width$ -- 50
+write$ -- 465
+(There were 9 warnings)

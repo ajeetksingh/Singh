@@ -1,0 +1,290 @@
+\relax 
+\newlabel{ch:ack}{{}{v}}
+\newlabel{ch:abstract}{{}{vi}}
+\citation{Vibhor13}
+\citation{CVSIComp}
+\citation{LBPOjala2002}
+\citation{Vibhor13}
+\citation{junejaThesis}
+\citation{GomezK14}
+\citation{tessOCR}
+\citation{GomezK14}
+\citation{tessOCR}
+\citation{CVSIComp}
+\citation{KumarJ07}
+\citation{Pati}
+\citation{Pati}
+\citation{Authors06b}
+\@writefile{toc}{\contentsline {chapter}{\numberline {1}Introduction}{1}}
+\@writefile{lof}{\addvspace {1em}}
+\@writefile{lot}{\addvspace {1em}}
+\newlabel{ch:intro}{{1}{1}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1.1}{\ignorespaces  In order to move towards a ``paperless office", there are million of documents in several scripts and languages to be digitized. But due to the limitation of existing \textsc  {ocr} systems, the inherent script and language of the documents should be known beforehand. Hence, a script identification module is added in \textsc  {ocr} system which will identify the scripts and language at word or line level before passing it to corresponding scripts/language \textsc  {ocr}.}}{3}}
+\newlabel{fig:motivation}{{1.1}{3}}
+\@writefile{toc}{\contentsline {section}{\numberline {1.1}Prior Art}{3}}
+\newlabel{sec:prior}{{1.1}{3}}
+\citation{Shijian08}
+\citation{}
+\citation{}
+\citation{Rashid10}
+\citation{Spitz97}
+\citation{Spitz97}
+\citation{Shijian08}
+\@writefile{toc}{\contentsline {section}{\numberline {1.2}Goals of thesis}{4}}
+\citation{ICDARcomp11}
+\@writefile{toc}{\contentsline {section}{\numberline {1.3}Major Contributions}{5}}
+\@writefile{toc}{\contentsline {section}{\numberline {1.4}Thesis Outline}{5}}
+\citation{LBPOjala2002}
+\citation{LBPOjala2002}
+\citation{LBPOjala2002}
+\@writefile{toc}{\contentsline {chapter}{\numberline {2}Background}{7}}
+\@writefile{lof}{\addvspace {1em}}
+\@writefile{lot}{\addvspace {1em}}
+\newlabel{ch:chap2}{{2}{7}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.1}Bag-of-Words(\nobreakspace  {}\textsc  {BoW} and \textsc  {SVM})}{7}}
+\newlabel{sec:tools}{{2.1}{7}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1.1}Image Descriptors}{7}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.1.1.1}Local Binary Patterns \nobreakspace  {}\textsc  {LBP}}{7}}
+\citation{Lowe04}
+\citation{Vibhor13}
+\citation{Dalal05}
+\citation{Vibhor13}
+\citation{Vibhor13}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.1}{\ignorespaces The basic \nobreakspace  {}\textsc  {lbp} operator. The figures shows the circular $(8, 1)$, $(16,2)$ and $(8,2)$ neighborhoods. The pixels are bilinearly interpolated whenever the sampling point is not at the center of a pixel. Figure source\nobreakspace  {}\cite  {LBPOjala2002}.}}{8}}
+\newlabel{fig:lbpPic}{{2.1}{8}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.1.1.2}\textsc  {SIFT}}{8}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.1.1.3}Gradient Based Features\nobreakspace  {}\cite  {Vibhor13}}{8}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.2}{\ignorespaces Histogram of Gradients computation by recording the gradient orientation at edges. Figure courtesy\nobreakspace  {}\cite  {Vibhor13}.}}{9}}
+\newlabel{fig:hogPic}{{2.2}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1.2}\textit  {k}-Means Clustering}{9}}
+\citation{junejaThesis}
+\citation{junejaThesis}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.3}{\ignorespaces \textbf  {\textit  {k}-Means Clustering}. Example data points, and the clusters computed by \textit  {k}-means clustering. Figure courtesy\nobreakspace  {}\cite  {junejaThesis}.}}{10}}
+\newlabel{fig:kmeansPic}{{2.3}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1.3}Support Vector Machines (\textsc  {SVM})}{10}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.2}Deep Learning and Recurrent Neural Networks}{11}}
+\newlabel{sec:deep}{{2.2}{11}}
+\citation{CVSIComp}
+\citation{GhoshDS10,scriptICDAR15,Pal}
+\@writefile{toc}{\contentsline {chapter}{\numberline {3}Script Identification in the Wild}{12}}
+\@writefile{lof}{\addvspace {1em}}
+\@writefile{lot}{\addvspace {1em}}
+\newlabel{ch:chap3}{{3}{12}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.1}Introduction}{12}}
+\citation{CVSIComp,GhoshDS10,PhanSDLT11,JoshiGS07,Pati,SIWIcdar}
+\citation{Pati}
+\citation{LBPOjala2002}
+\citation{JoshiGS07}
+\citation{GhoshDS10}
+\citation{CVSIComp}
+\citation{SIWIcdar,CVSIComp}
+\citation{scriptICDAR15}
+\citation{FernandoFT14,JunejaVJZ13,BoureauBLP10}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces A typical example of a street scene image captured in a multilingual country, e.g. India. Our goal in this paper is to localize the text and answer ``what script is this?" to facilitate the reading in scene images.}}{13}}
+\newlabel{fig:firstRes}{{3.1}{13}}
+\citation{ICDARcomp11,MishraBMVC12}
+\citation{SIWIcdar,CVSIComp}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.2}{\ignorespaces Few example images from thee \textsc  {ilst} datset we introduce. (a) we provide ground truth text bounding box, script and text for the images. (b) Few cropped word images of our dataset. The dataset can be used for variety of problems including recognition, text localization etc.}}{14}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {}}}{14}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {}}}{14}}
+\newlabel{fig:dataset}{{3.2}{14}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.2}Datasets}{14}}
+\newlabel{sec:datasets}{{3.2}{14}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.1}The ILST dataset}{14}}
+\citation{CVSIComp}
+\citation{SIWIcdar}
+\citation{labelme}
+\citation{deCampos09}
+\citation{CVSIComp}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.2}CVSI 2015\nobreakspace  {}\cite  {CVSIComp}}{15}}
+\citation{FernandoFT14}
+\citation{JunejaVJZ13,BoureauBLP10,FernandoFT14}
+\citation{JunejaVJZ13}
+\citation{JunejaVJZ13}
+\citation{FernandoFT14}
+\citation{SinghGE12}
+\@writefile{lot}{\contentsline {table}{\numberline {3.1}{\ignorespaces The ILST dataset: we introduce a \textsc  {ilst} dataset which contains 578 scene images and 4036 cropped images from 5 major Indian languages.}}{16}}
+\newlabel{tab:dataset}{{3.1}{16}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.3}Methodology}{16}}
+\newlabel{sec:ourApp}{{3.3}{16}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.1}Motivation and overview}{16}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.3}{\ignorespaces Strokes are atomic units of scripts. We show some representative strokes of following scripts (top to bottom): Hindi, Kannada, Malayalam, Tamil and Telugu. Our method yields the strokes which are representative and discriminative enough for a cropped image.}}{17}}
+\newlabel{fig:strokes}{{3.3}{17}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.2}Bag-of-strokes based representation}{17}}
+\newlabel{sec:bos}{{3.3.2}{17}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.4}{\ignorespaces Method Overview: The figure depicts the feature computation process where, first we find the local features from the images, we cluster these feature to get the local histogram of visual words. Then we cluster the histogram of visual words to get the representation of words in form of strokes.}}{18}}
+\newlabel{fig:overview}{{3.4}{18}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.3.2.1}Feature computation}{18}}
+\newlabel{sec:features}{{3.3.2.1}{18}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.3.2.2}Finding the best strokes for the task}{18}}
+\newlabel{sec:best}{{3.3.2.2}{18}}
+\citation{Pati}
+\citation{Manmatha12}
+\citation{LBPOjala2002}
+\citation{GomezK14}
+\citation{tessOCR}
+\citation{GomezK14}
+\citation{tessOCR}
+\citation{GomezK14}
+\citation{tessOCR}
+\@writefile{lot}{\contentsline {table}{\numberline {3.2}{\ignorespaces Results on ILST (cropped words script identification)}}{19}}
+\newlabel{tab:ILSTRes1}{{3.2}{19}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.3}Script identification: Full pipeline}{19}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.4}Experiments}{19}}
+\newlabel{sec:expts}{{3.4}{19}}
+\@writefile{lot}{\contentsline {table}{\numberline {3.3}{\ignorespaces Results on ILST (End-to-End pipeline). We use\nobreakspace  {}\cite  {GomezK14} and tesseract\nobreakspace  {}\cite  {tessOCR} for text localization and evaluate our proposed method of script identification based on measure presented in Section\nobreakspace  {}3.4.2\hbox {}}}{20}}
+\newlabel{tab:ILSTRes2}{{3.3}{20}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.1}Implementation details and design choice}{20}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.2}Evaluation Protocols}{20}}
+\newlabel{sec:perf}{{3.4.2}{20}}
+\citation{LBPOjala2002}
+\citation{Pati}
+\citation{Manmatha12}
+\citation{CVSIComp}
+\citation{CVSIComp}
+\citation{CVSIComp}
+\citation{GomezK14}
+\citation{tessOCR}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.5}{\ignorespaces Confusion matrix on ILST cropped words. Our method achieve a 88.67\% accuracy of script identification on the introduced dataset.}}{21}}
+\newlabel{fig:cm}{{3.5}{21}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.3}Baseline Methods}{21}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.4}Results on the ILST dataset}{21}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.4.4.1}End-to-end script identification}{21}}
+\citation{Pati,LBPOjala2002}
+\citation{CVSIComp}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.6}{\ignorespaces Success and Failure Cases. Despite high variations in the dataset, our method correctly identifies the script of scene text images. The ``Success" columns depicts the correctly classified word images, and wrongly classified words are shown in ``Failure" column along with recognized script in red boxes.}}{22}}
+\newlabel{fig:visRes1}{{3.6}{22}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.4.4.2}Cropped word Script Identification}{22}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.5}Results on CVSI dataset}{22}}
+\citation{GomezK14}
+\citation{tessOCR}
+\citation{GomezK14}
+\citation{tessOCR}
+\@writefile{lot}{\contentsline {table}{\numberline {3.4}{\ignorespaces Task specific evaluation on \textsc  {cvsi}\nobreakspace  {}\cite  {CVSIComp}. Here A: Arabic, B: Bengali. E: English, H: Hindi,G: Gujrati, K: Kannada, O: Oriya, P: Punjabi, Ta: Tamil, Te: Telugu. Hence AEH means where script identification of three class namely, Arabic, English and Hindi, is performed and so on. Further, Task-1, Task-2, Task-3 and Task-4 indicates tri-script, north Indian script, south Indian script, all script identification, respectively.}}{23}}
+\newlabel{tab:CVSIRes2}{{3.4}{23}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.6}Qualitative evaluation}{23}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.7}{\ignorespaces An example result of End-to-end script identification of our method. We localize the text boxes in images using method using\nobreakspace  {}\cite  {GomezK14} and\nobreakspace  {}\cite  {tessOCR}. Then we apply our method to find the inherent script in the text boxes.}}{24}}
+\newlabel{fig:visRes2}{{3.7}{24}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.5}Conclusions}{24}}
+\newlabel{sec:con}{{3.5}{24}}
+\citation{Breuel13,PraveenDAS}
+\citation{GravesLFBBS09}
+\citation{Volkmar11}
+\citation{Manmatha12}
+\citation{Hinton12}
+\@writefile{toc}{\contentsline {chapter}{\numberline {4}Script and Language Identification using Recurrent Neural Networks}{25}}
+\@writefile{lof}{\addvspace {1em}}
+\@writefile{lot}{\addvspace {1em}}
+\newlabel{ch:chap4}{{4}{25}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.1}Introduction}{25}}
+\newlabel{sec:intro}{{4.1}{25}}
+\citation{Spitz97}
+\citation{Tan98}
+\citation{Busch05,Ferrer13,Pati,sukalpa09}
+\citation{Rashid10}
+\citation{Spitz97}
+\citation{Spitz97}
+\citation{Shijian08}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Figure depicts the script and language identified at word level in document snippets written in Roman-script (first row) based languages and Indic scripts (second row), respectively. In the first row, red, green and blue rectangles denote German, French and Spanish languages, respectively. In the second row, violet, orange and brown rectangles denote Hindi, Telugu and Malayalam scripts, respectively. Unlike the approaches in the past we propose a method to identify the script and language at word and line level by employing popular Recurrent Neural Network (\textsc  {rnn}s).}}{26}}
+\newlabel{fig:demoResults}{{4.1}{26}}
+\citation{Pati}
+\citation{Schmidhuber97}
+\citation{GravesLFBBS09}
+\citation{PraveenDAS}
+\citation{GravesLFBBS09}
+\citation{GravesFGS06}
+\citation{GravesFGS06}
+\@writefile{toc}{\contentsline {section}{\numberline {4.2}\textsc  {rnn} for Script and Language Identification}{27}}
+\newlabel{sec:scriptLangId}{{4.2}{27}}
+\citation{PraveenDAS,Manmatha03}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces The architecture for \textsc  {rnn} based script and language identification. From left to right, the segmented line and word from the document images are horizontally divided into two parts. Then, sequence features are calculated from sliding windows, $w$. Here, $m$ is the number of sliding windows and $n$ is the number of features , $f$, computed from a single window. These features are then given as input to the \textsc  {lstm} cell of \textsc  {rnn} to identify the script and language of current line/word image.}}{28}}
+\newlabel{fig:ssPipe}{{4.2}{28}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}Representation of Words and Lines}{28}}
+\newlabel{subsec:featExtract}{{4.2.1}{28}}
+\citation{KumarJ07}
+\citation{KumarJ07}
+\citation{Pati}
+\citation{Pati}
+\citation{KumarJ07}
+\citation{Pati}
+\citation{Pati}
+\citation{KumarJ07}
+\citation{Pati}
+\citation{Pati}
+\citation{KumarJ07}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.2}Implementation and Evaluation}{29}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.3}Results and Discussions}{29}}
+\newlabel{sec:experiments}{{4.3}{29}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.1}Script identification}{29}}
+\newlabel{subsec:scriptidentification}{{4.3.1}{29}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.1}{\ignorespaces Table depicts the details of dataset (D1)\nobreakspace  {}\cite  {KumarJ07} used for script and language identification. It depicts the performance of our method on the D1 at word and line level. It also shows the comparison of our method against Gabor features with \textsc  {svm} classifier on D2\nobreakspace  {}\cite  {Pati}. Since, D2\nobreakspace  {}\cite  {Pati} didn't show any results on Marathi, Assamese and Manipuri scripts, we are not comparing on these languages.}}{30}}
+\newlabel{tab:scriptResults}{{4.1}{30}}
+\citation{Pati}
+\citation{Pati}
+\citation{Pati}
+\citation{Pati,Busch05,Joshi07}
+\citation{Pati}
+\citation{Pati}
+\citation{Pati}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces Script identification Results: Some failure cases in script identification at word level. First row, first column shows Kannada words identified as Telugu and the second column in same row shows Telugu words identified as Kannada words. In second row, first column shows the Gurumukhi words as Hindi and in second column of the same row, Hindi words identified as Gurumukhi. Similarly in the third row of the figure, first column shows Bangla words identified as Assamese and vice versa in second column.}}{32}}
+\newlabel{fig:qualResults}{{4.3}{32}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.2}Language Identification}{32}}
+\newlabel{subsec:langId}{{4.3.2}{32}}
+\citation{ethnologue}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces Confusion Matrix for the script identification at word level. The blank spaces in the graph denotes predictions that are less than 0.40\%.}}{33}}
+\newlabel{fig:confScript}{{4.4}{33}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.2}{\ignorespaces Table depicts the Roman script-based dataset used for language identification. It shows the confusion matrix for language identification for Roman-script dataset. It also depicts the performance of our method on the reported dataset at word and line level.}}{34}}
+\newlabel{tab:langResults}{{4.2}{34}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces Language Identification Results: Some failure cases for language identification at word level for both the Indian and Roman-script based dataset. In the first row, the first column shows the French words identified as Spanish and the second column shows Spanish words identified as French. In the second row, the first column shows the German words identified as French and the second ones shows French words identified as German. For the third row, the first column shows the Marathi words identified as Hindi, and vice versa in second column. In the fourth row, the first column shows the Assamese words identified as Manipuri and vice versa in the second column.}}{34}}
+\newlabel{fig:langQualResults}{{4.5}{34}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.4}Conclusion}{34}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {5}Conclusions}{36}}
+\@writefile{lof}{\addvspace {1em}}
+\@writefile{lot}{\addvspace {1em}}
+\newlabel{ch:conc}{{5}{36}}
+\bibstyle{latex8}
+\bibdata{sampleBib}
+\newlabel{ch:relatedPubs}{{5}{37}}
+\bibcite{tessOCR}{{1}{}{{}}{{}}}
+\bibcite{labelme}{{2}{}{{}}{{}}}
+\bibcite{ethnologue}{{3}{}{{}}{{}}}
+\bibcite{Authors06b}{{4}{}{{}}{{}}}
+\bibcite{BoureauBLP10}{{5}{}{{}}{{}}}
+\bibcite{Breuel13}{{6}{}{{}}{{}}}
+\bibcite{Busch05}{{7}{}{{}}{{}}}
+\bibcite{Pal}{{8}{}{{}}{{}}}
+\bibcite{sukalpa09}{{9}{}{{}}{{}}}
+\bibcite{Dalal05}{{10}{}{{}}{{}}}
+\bibcite{deCampos09}{{11}{}{{}}{{}}}
+\bibcite{FernandoFT14}{{12}{}{{}}{{}}}
+\bibcite{Ferrer13}{{13}{}{{}}{{}}}
+\bibcite{Manmatha12}{{14}{}{{}}{{}}}
+\bibcite{GhoshDS10}{{15}{}{{}}{{}}}
+\bibcite{Vibhor13}{{16}{}{{}}{{}}}
+\bibcite{GravesFGS06}{{17}{}{{}}{{}}}
+\bibcite{GravesLFBBS09}{{18}{}{{}}{{}}}
+\bibcite{Schmidhuber97}{{19}{}{{}}{{}}}
+\bibcite{Volkmar11}{{20}{}{{}}{{}}}
+\bibcite{KumarJ07}{{21}{}{{}}{{}}}
+\bibcite{JoshiGS07}{{22}{}{{}}{{}}}
+\bibcite{Joshi07}{{23}{}{{}}{{}}}
+\bibcite{JunejaVJZ13}{{24}{}{{}}{{}}}
+\bibcite{PraveenDAS}{{25}{}{{}}{{}}}
+\bibcite{Hinton12}{{26}{}{{}}{{}}}
+\bibcite{GomezK14}{{27}{}{{}}{{}}}
+\bibcite{Lowe04}{{28}{}{{}}{{}}}
+\bibcite{MishraBMVC12}{{29}{}{{}}{{}}}
+\bibcite{LBPOjala2002}{{30}{}{{}}{{}}}
+\bibcite{Pati}{{31}{}{{}}{{}}}
+\bibcite{PhanSDLT11}{{32}{}{{}}{{}}}
+\bibcite{Rashid10}{{33}{}{{}}{{}}}
+\bibcite{Manmatha03}{{34}{}{{}}{{}}}
+\bibcite{ICDARcomp11}{{35}{}{{}}{{}}}
+\bibcite{CVSIComp}{{36}{}{{}}{{}}}
+\bibcite{SIWIcdar}{{37}{}{{}}{{}}}
+\bibcite{Shijian08}{{38}{}{{}}{{}}}
+\bibcite{scriptICDAR15}{{39}{}{{}}{{}}}
+\bibcite{SinghGE12}{{40}{}{{}}{{}}}
+\bibcite{Spitz97}{{41}{}{{}}{{}}}
+\bibcite{Tan98}{{42}{}{{}}{{}}}
+\providecommand\NAT@force@numbers{}\NAT@force@numbers

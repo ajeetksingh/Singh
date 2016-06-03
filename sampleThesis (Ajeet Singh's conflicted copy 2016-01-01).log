@@ -1,0 +1,1723 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.10)  14 DEC 2015 16:47
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**sampleThesis.tex
+(./sampleThesis.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./iiit_thesis.sty
+*******************************************************************
+** UIUC Thesis Style File, version 1.1, Nov 1995 by Fred Geiger 
+** Based On UTTHESIS.STY, Written by Dinesh Das 
+** Dept. of Computer Sciences, The University of Texas at Austin 
+*******************************************************************
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\hour=\count88
+\minute=\count89
+\wwwy=\count90
+\wwwm=\count91
+\wwwd=\count92
+\wwwc=\count93
+\wwwt=\count94
+\wwws=\count95
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count96
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen105
+\epsfysize=\dimen106
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen107
+\lightrulewidth=\dimen108
+\cmidrulewidth=\dimen109
+\belowrulesep=\dimen110
+\belowbottomsep=\dimen111
+\aboverulesep=\dimen112
+\abovetopsep=\dimen113
+\cmidrulesep=\dimen114
+\cmidrulekern=\dimen115
+\defaultaddspace=\dimen116
+\@cmidla=\count97
+\@cmidlb=\count98
+\@aboverulesep=\dimen117
+\@belowrulesep=\dimen118
+\@thisruleclass=\count99
+\@lastruleclass=\count100
+\@thisrulewidth=\dimen119
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip43
+\subfigcapskip=\skip44
+\subfigcaptopadj=\dimen120
+\subfigbottomskip=\skip45
+\subfigcapmargin=\dimen121
+\subfiglabelskip=\skip46
+\c@subfigure=\count101
+\c@lofdepth=\count102
+\c@subtable=\count103
+\c@lotdepth=\count104
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip47
+\subfig@bottom=\skip48
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip49
+\bibsep=\skip50
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen122
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen123
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count106
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count107
+\leftroot@=\count108
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count109
+\DOTSCASE@=\count110
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen124
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count111
+\c@MaxMatrixCols=\count112
+\dotsspace@=\muskip11
+\c@parentequation=\count113
+\dspbrk@lvl=\count114
+\tag@help=\toks17
+\row@=\count115
+\column@=\count116
+\maxfields@=\count117
+\andhelp@=\toks18
+\eqnshift@=\dimen125
+\alignsep@=\dimen126
+\tagshift@=\dimen127
+\tagwidth@=\dimen128
+\totwidth@=\dimen129
+\lineht@=\dimen130
+\@envbody=\toks19
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen131
+)
+(./algorithm2e.sty
+Package: algorithm2e 2004/06/16
+\c@AlgoLine=\count118
+ (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+********************************************************
+Package `algorithm2e' Release 3.3 -- june 16 2004 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (fiorio@lirmm.fr)
+********************************************************
+\skiptotal=\skip54
+\skiprule=\skip55
+\skiphlne=\skip56
+\skiptext=\skip57
+\skiplength=\skip58
+\algomargin=\skip59
+\skipnumline=\skip60
+\skipalgocfslide=\skip61
+\algowidth=\dimen132
+\inoutsize=\dimen133
+\inoutline=\dimen134
+\algocf@inoutbox=\box28
+\algocf@inputbox=\box29
+\algocf@capbox=\box30
+\c@algocfline=\count119
+\c@algocf=\count120
+\algocf@algoframe=\box31
+\algocf@algobox=\box32
+) (./sampleThesis.aux)
+\openout1 = `sampleThesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 32.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count121
+\scratchdimen=\dimen135
+\scratchbox=\box33
+\nofMPsegments=\count122
+\nofMParguments=\count123
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count124
+\MPscratchDim=\dimen136
+\MPnumerator=\count125
+\makeMPintoPDFobject=\count126
+\everyMPtoPDFconversion=\toks22
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(./titlePage.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 21.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Package epstopdf Info: Source file: <figures/iiit.eps>
+(epstopdf)                    date: 2015-12-13 12:44:11
+(epstopdf)                    size: 39420 bytes
+(epstopdf)             Output file: <figures/iiit-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-12-13 12:44:13
+(epstopdf)                    size: 6162 bytes
+(epstopdf)             Command: <epstopdf --outfile=figures/iiit-eps-converted-
+to.pdf figures/iiit.eps>
+(epstopdf)             \includegraphics on input line 25.
+Package epstopdf Info: Output file is already uptodate.
+
+<figures/iiit-eps-converted-to.pdf, id=1, 79.29625pt x 58.2175pt>
+File: figures/iiit-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/iiit-eps-converted-to.pdf>
+Package pdftex.def Info: figures/iiit-eps-converted-to.pdf used on input line 2
+5.
+(pdftex.def)             Requested size: 39.83385pt x 29.24547pt.
+) [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figures/iiit-eps-convert
+ed-to.pdf>]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 42.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
+ [2]
+(./certificate.tex
+LaTeX Font Info:    Try loading font information for U+msa on input line 16.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 16.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 16.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)) [3] [4]
+(./acknowledgements.tex) [5
+
+] (./abstract.tex) [6
+
+] (./sampleThesis.toc [7
+
+])
+\tf@toc=\write3
+\openout3 = `sampleThesis.toc'.
+
+
+[8] (./sampleThesis.lof
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 6.
+
+
+Package natbib Warning: Citation `junejaThesis' on page ix undefined on input l
+ine 6.
+
+[9
+
+])
+\tf@lof=\write4
+\openout4 = `sampleThesis.lof'.
+
+ [10] (./sampleThesis.lot)
+\tf@lot=\write5
+\openout5 = `sampleThesis.lot'.
+
+ [11
+
+]
+{\it Chapter} 1.
+(./introduction.tex
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 107.
+ [1
+
+] <figures/images.jpg, id=53, 299.1175pt x 169.63374pt>
+File: figures/images.jpg Graphic file (type jpg)
+
+<use figures/images.jpg>
+Package pdftex.def Info: figures/images.jpg used on input line 127.
+(pdftex.def)             Requested size: 149.55838pt x 84.81665pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--138
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 140--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--149
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <./figures/images.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 151--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--160
+
+ []
+
+[4] [5]) [6]
+{\it Chapter} 2.
+(./chapter2.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/sc' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/sc' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/sc' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/sc' tried instead on input line 15.
+ <figures/Lbp_neighbors.png, id=70, 269.50688pt x 88.83188pt>
+File: figures/Lbp_neighbors.png Graphic file (type png)
+
+<use figures/Lbp_neighbors.png>
+Package pdftex.def Info: figures/Lbp_neighbors.png used on input line 20.
+(pdftex.def)             Requested size: 269.50621pt x 88.83165pt.
+ [7
+
+]
+<figures/hogPic.png, id=75, 977.15062pt x 296.60812pt>
+File: figures/hogPic.png Graphic file (type png)
+
+<use figures/hogPic.png>
+Package pdftex.def Info: figures/hogPic.png used on input line 40.
+(pdftex.def)             Requested size: 390.85332pt x 118.64114pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 45.
+ [8 <./figures/Lbp_neighbors.png>]
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [9 <./figures/hogPic.png>] <figures/kmeansClust.png, id=91, 666.23906pt x 305.
+64188pt>
+File: figures/kmeansClust.png Graphic file (type png)
+
+<use figures/kmeansClust.png>
+Package pdftex.def Info: figures/kmeansClust.png used on input line 84.
+(pdftex.def)             Requested size: 266.49089pt x 122.25458pt.
+
+
+Package natbib Warning: Citation `junejaThesis' on page 10 undefined on input l
+ine 85.
+
+
+Package natbib Warning: Citation `junejaThesis' on page 10 undefined on input l
+ine 85.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/sc' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/sc' tried instead on input line 89.
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no ˆ in font ptmr7t!
+Missing character: There is no ’ in font ptmr7t!
+[10 <./figures/kmeansClust.png>]
+Missing character: There is no â in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+) [11]
+{\it Chapter} 3.
+(./chapter3.tex
+Package epstopdf Info: Source file: <figures/Introduction.eps>
+(epstopdf)                    date: 2015-12-13 12:44:17
+(epstopdf)                    size: 3727726 bytes
+(epstopdf)             Output file: <figures/Introduction-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2015-12-13 15:44:34
+(epstopdf)                    size: 230897 bytes
+(epstopdf)             Command: <epstopdf --outfile=figures/Introduction-eps-co
+nverted-to.pdf figures/Introduction.eps>
+(epstopdf)             \includegraphics on input line 19.
+Package epstopdf Info: Output file is already uptodate.
+
+<figures/Introduction-eps-converted-to.pdf, id=99, 465.74pt x 312.16624pt>
+File: figures/Introduction-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/Introduction-eps-converted-to.pdf>
+Package pdftex.def Info: figures/Introduction-eps-converted-to.pdf used on inpu
+t line 19.
+(pdftex.def)             Requested size: 210.03302pt x 140.77359pt.
+ [12
+
+]
+<figures/Datasetfigures/figure1_1.jpg, id=103, 511.15968pt x 322.95656pt>
+File: figures/Datasetfigures/figure1_1.jpg Graphic file (type jpg)
+
+<use figures/Datasetfigures/figure1_1.jpg>
+Package pdftex.def Info: figures/Datasetfigures/figure1_1.jpg used on input lin
+e 35.
+(pdftex.def)             Requested size: 156.48454pt x 142.26393pt.
+
+<figures/Datasetfigures/figure2_2.jpg, id=104, 458.46281pt x 342.5297pt>
+File: figures/Datasetfigures/figure2_2.jpg Graphic file (type jpg)
+
+<use figures/Datasetfigures/figure2_2.jpg>
+Package pdftex.def Info: figures/Datasetfigures/figure2_2.jpg used on input lin
+e 35.
+(pdftex.def)             Requested size: 156.49089pt x 142.26738pt.
+
+<figures/Datasetfigures/datasetCropped_1.png, id=105, 678.28406pt x 418.56375pt
+>
+File: figures/Datasetfigures/datasetCropped_1.png Graphic file (type png)
+ <use figures/Datasetfigures/datasetCropped_1.png>
+Package pdftex.def Info: figures/Datasetfigures/datasetCropped_1.png used on in
+put line 39.
+(pdftex.def)             Requested size: 156.48848pt x 142.25868pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13 <./figures/Introduction-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 53--57
+
+ []
+
+[14 <./figures/Datasetfigures/figure1_1.jpg> <./figures/Datasetfigures/figure2_
+2.jpg> <./figures/Datasetfigures/datasetCropped_1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 59--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 163--166
+
+ []
+
+[16] <figures/strokes.png, id=123, 210.7875pt x 164.11313pt>
+File: figures/strokes.png Graphic file (type png)
+
+<use figures/strokes.png>
+Package pdftex.def Info: figures/strokes.png used on input line 176.
+(pdftex.def)             Requested size: 231.86696pt x 180.52498pt.
+
+<figures/pipeline.jpg, id=124, 718.18312pt x 194.22563pt>
+File: figures/pipeline.jpg Graphic file (type jpg)
+
+<use figures/pipeline.jpg>
+Package pdftex.def Info: figures/pipeline.jpg used on input line 183.
+(pdftex.def)             Requested size: 502.72476pt x 135.957pt.
+
+Overfull \hbox (57.83725pt too wide) in paragraph at lines 183--184
+ [][] 
+ []
+
+[17 <./figures/strokes.png>] [18 <./figures/pipeline.jpg>]
+Underfull \vbox (badness 5374) has occurred while \output is active []
+
+ [19]
+Overfull \hbox (3.33437pt too wide) in paragraph at lines 338--348
+[]\OT1/ptm/m/n/10.95 To eval-u-ate the end-to-end script iden-ti-fi-ca-tion we 
+use stan-dard mea-sures, pre-ci-sion ($\OML/cmm/m/it/10.95 prec$\OT1/ptm/m/n/10
+.95 ), recall($\OML/cmm/m/it/10.95 rec$\OT1/ptm/m/n/10.95 )
+ []
+
+[20]
+Package epstopdf Info: Source file: <figures/confusion_1.eps>
+(epstopdf)                    date: 2015-12-13 12:44:23
+(epstopdf)                    size: 10822 bytes
+(epstopdf)             Output file: <figures/confusion_1-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-12-13 15:44:34
+(epstopdf)                    size: 7433 bytes
+(epstopdf)             Command: <epstopdf --outfile=figures/confusion_1-eps-con
+verted-to.pdf figures/confusion_1.eps>
+(epstopdf)             \includegraphics on input line 364.
+Package epstopdf Info: Output file is already uptodate.
+
+<figures/confusion_1-eps-converted-to.pdf, id=138, 527.9725pt x 386.44376pt>
+File: figures/confusion_1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/confusion_1-eps-converted-to.pdf>
+Package pdftex.def Info: figures/confusion_1-eps-converted-to.pdf used on input
+ line 364.
+(pdftex.def)             Requested size: 263.9856pt x 193.2214pt.
+
+<figures/Results/Success/Hindi_4.jpg, id=139, 142.5325pt x 114.4275pt>
+File: figures/Results/Success/Hindi_4.jpg Graphic file (type jpg)
+
+<use figures/Results/Success/Hindi_4.jpg>
+Package pdftex.def Info: figures/Results/Success/Hindi_4.jpg used on input line
+ 384.
+(pdftex.def)             Requested size: 28.45161pt x 14.22482pt.
+
+<figures/Results/Success/Hindi_5.jpg, id=140, 273.02pt x 102.3825pt>
+File: figures/Results/Success/Hindi_5.jpg Graphic file (type jpg)
+
+<use figures/Results/Success/Hindi_5.jpg>
+Package pdftex.def Info: figures/Results/Success/Hindi_5.jpg used on input line
+ 384.
+(pdftex.def)             Requested size: 28.44923pt x 14.22565pt.
+
+<figures/Results/Success/Hindi_6.jpg, id=141, 130.4875pt x 58.2175pt>
+File: figures/Results/Success/Hindi_6.jpg Graphic file (type jpg)
+
+<use figures/Results/Success/Hindi_6.jpg>
+Package pdftex.def Info: figures/Results/Success/Hindi_6.jpg used on input line
+ 384.
+(pdftex.def)             Requested size: 28.45247pt x 14.22565pt.
+
+<figures/Results/Failure/eng_tam.png, id=142, 563.85657pt x 205.5178pt>
+File: figures/Results/Failure/eng_tam.png Graphic file (type png)
+
+<use figures/Results/Failure/eng_tam.png>
+Package pdftex.def Info: figures/Results/Failure/eng_tam.png used on input line
+ 384.
+(pdftex.def)             Requested size: 28.45259pt x 14.22464pt.
+
+<figures/Results/Success/Kannada_2.png, id=143, 1090.0725pt x 489.83pt>
+File: figures/Results/Success/Kannada_2.png Graphic file (type png)
+
+<use figures/Results/Success/Kannada_2.png>
+Package pdftex.def Info: figures/Results/Success/Kannada_2.png used on input li
+ne 385.
+(pdftex.def)             Requested size: 28.44267pt x 14.22339pt.
+
+<figures/Results/Success/Kannada_3.png, id=144, 1232.605pt x 295.1025pt>
+File: figures/Results/Success/Kannada_3.png Graphic file (type png)
+
+<use figures/Results/Success/Kannada_3.png>
+Package pdftex.def Info: figures/Results/Success/Kannada_3.png used on input li
+ne 385.
+(pdftex.def)             Requested size: 28.43771pt x 14.22464pt.
+
+<figures/Results/Success/Kannada_4.png, id=145, 465.74pt x 244.915pt>
+File: figures/Results/Success/Kannada_4.png Graphic file (type png)
+
+<use figures/Results/Success/Kannada_4.png>
+Package pdftex.def Info: figures/Results/Success/Kannada_4.png used on input li
+ne 385.
+(pdftex.def)             Requested size: 28.44775pt x 14.22339pt.
+
+<figures/Results/Failure/Kannada-Telugu_4.png, id=146, 302.63063pt x 188.95593p
+t>
+File: figures/Results/Failure/Kannada-Telugu_4.png Graphic file (type png)
+ <use figures/Results/Failure/Kannada-Telugu_4.png>
+Package pdftex.def Info: figures/Results/Failure/Kannada-Telugu_4.png used on i
+nput line 385.
+(pdftex.def)             Requested size: 28.45004pt x 14.22586pt.
+
+<figures/Results/Success/Malayalam_1.jpg, id=147, 1532.72626pt x 368.37625pt>
+File: figures/Results/Success/Malayalam_1.jpg Graphic file (type jpg)
+
+<use figures/Results/Success/Malayalam_1.jpg>
+Package pdftex.def Info: figures/Results/Success/Malayalam_1.jpg used on input 
+line 386.
+(pdftex.def)             Requested size: 28.43918pt x 14.22102pt.
+
+<figures/Results/Success/Malayalam_2.jpg, id=148, 685.56125pt x 184.69pt>
+File: figures/Results/Success/Malayalam_2.jpg Graphic file (type jpg)
+
+<use figures/Results/Success/Malayalam_2.jpg>
+Package pdftex.def Info: figures/Results/Success/Malayalam_2.jpg used on input 
+line 386.
+(pdftex.def)             Requested size: 28.44293pt x 14.22595pt.
+
+<figures/Results/Success/Malayalam_3.jpg, id=149, 328.22626pt x 158.5925pt>
+File: figures/Results/Success/Malayalam_3.jpg Graphic file (type jpg)
+
+<use figures/Results/Success/Malayalam_3.jpg>
+Package pdftex.def Info: figures/Results/Success/Malayalam_3.jpg used on input 
+line 386.
+(pdftex.def)             Requested size: 28.45227pt x 14.2243pt.
+
+<figures/Results/Failure/mal_tam.png, id=150, 728.7225pt x 138.5175pt>
+File: figures/Results/Failure/mal_tam.png Graphic file (type png)
+
+<use figures/Results/Failure/mal_tam.png>
+Package pdftex.def Info: figures/Results/Failure/mal_tam.png used on input line
+ 386.
+(pdftex.def)             Requested size: 28.4434pt x 14.22455pt.
+
+<figures/Results/Success/Tamil_3.jpg, id=151, 316.18124pt x 152.57pt>
+File: figures/Results/Success/Tamil_3.jpg Graphic file (type jpg)
+
+<use figures/Results/Success/Tamil_3.jpg>
+Package pdftex.def Info: figures/Results/Success/Tamil_3.jpg used on input line
+ 387.
+(pdftex.def)             Requested size: 28.45026pt x 14.22424pt.
+
+<figures/Results/Success/Tamil_5.jpg, id=152, 2185.16376pt x 469.755pt>
+File: figures/Results/Success/Tamil_5.jpg Graphic file (type jpg)
+
+<use figures/Results/Success/Tamil_5.jpg>
+Package pdftex.def Info: figures/Results/Success/Tamil_5.jpg used on input line
+ 387.
+(pdftex.def)             Requested size: 28.44147pt x 14.22105pt.
+
+<figures/Results/Success/Tamil_1.jpg, id=153, 1015.795pt x 388.45125pt>
+File: figures/Results/Success/Tamil_1.jpg Graphic file (type jpg)
+
+<use figures/Results/Success/Tamil_1.jpg>
+Package pdftex.def Info: figures/Results/Success/Tamil_1.jpg used on input line
+ 387.
+(pdftex.def)             Requested size: 28.44206pt x 14.22546pt.
+
+<figures/Results/Failure/tam_mal.png, id=154, 475.02469pt x 173.14688pt>
+File: figures/Results/Failure/tam_mal.png Graphic file (type png)
+
+<use figures/Results/Failure/tam_mal.png>
+Package pdftex.def Info: figures/Results/Failure/tam_mal.png used on input line
+ 387.
+(pdftex.def)             Requested size: 28.44951pt x 14.22455pt.
+
+<figures/Results/Success/Telugu_1.png, id=155, 800.9925pt x 373.395pt>
+File: figures/Results/Success/Telugu_1.png Graphic file (type png)
+
+<use figures/Results/Success/Telugu_1.png>
+Package pdftex.def Info: figures/Results/Success/Telugu_1.png used on input lin
+e 388.
+(pdftex.def)             Requested size: 28.44092pt x 14.22105pt.
+
+<figures/Results/Success/Telugu_2.png, id=156, 620.3175pt x 228.855pt>
+File: figures/Results/Success/Telugu_2.png Graphic file (type png)
+
+<use figures/Results/Success/Telugu_2.png>
+Package pdftex.def Info: figures/Results/Success/Telugu_2.png used on input lin
+e 388.
+(pdftex.def)             Requested size: 28.45259pt x 14.22308pt.
+
+<figures/Results/Success/Telugu_3.png, id=157, 722.7pt x 487.8225pt>
+File: figures/Results/Success/Telugu_3.png Graphic file (type png)
+
+<use figures/Results/Success/Telugu_3.png>
+Package pdftex.def Info: figures/Results/Success/Telugu_3.png used on input lin
+e 388.
+(pdftex.def)             Requested size: 28.45094pt x 14.22464pt.
+
+<figures/Results/Failure/telugu_kan_1.png, id=158, 313.9228pt x 191.21437pt>
+File: figures/Results/Failure/telugu_kan_1.png Graphic file (type png)
+
+<use figures/Results/Failure/telugu_kan_1.png>
+Package pdftex.def Info: figures/Results/Failure/telugu_kan_1.png used on input
+ line 388.
+(pdftex.def)             Requested size: 28.44821pt x 14.22374pt.
+
+<figures/Results/Success/English_1.jpg, id=159, 175.65625pt x 92.345pt>
+File: figures/Results/Success/English_1.jpg Graphic file (type jpg)
+
+<use figures/Results/Success/English_1.jpg>
+Package pdftex.def Info: figures/Results/Success/English_1.jpg used on input li
+ne 389.
+(pdftex.def)             Requested size: 28.45132pt x 14.22595pt.
+
+<figures/Results/Success/English_2.jpg, id=160, 366.36874pt x 105.39375pt>
+File: figures/Results/Success/English_2.jpg Graphic file (type jpg)
+
+<use figures/Results/Success/English_2.jpg>
+Package pdftex.def Info: figures/Results/Success/English_2.jpg used on input li
+ne 389.
+(pdftex.def)             Requested size: 28.44917pt x 14.22592pt.
+
+<figures/Results/Success/English_3.jpg, id=161, 131.49126pt x 43.16125pt>
+File: figures/Results/Success/English_3.jpg Graphic file (type jpg)
+
+<use figures/Results/Success/English_3.jpg>
+Package pdftex.def Info: figures/Results/Success/English_3.jpg used on input li
+ne 389.
+(pdftex.def)             Requested size: 28.45264pt x 14.22612pt.
+
+<figures/Results/Failure/eng_kan.png, id=162, 430.60875pt x 192.72pt>
+File: figures/Results/Failure/eng_kan.png Graphic file (type png)
+
+<use figures/Results/Failure/eng_kan.png>
+Package pdftex.def Info: figures/Results/Failure/eng_kan.png used on input line
+ 389.
+(pdftex.def)             Requested size: 28.45049pt x 14.224pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 442--446
+
+ []
+
+[21 <./figures/confusion_1-eps-converted-to.pdf>] [22 <./figures/Results/Succes
+s/Hindi_4.jpg> <./figures/Results/Success/Hindi_5.jpg> <./figures/Results/Succe
+ss/Hindi_6.jpg> <./figures/Results/Failure/eng_tam.png> <./figures/Results/Succ
+ess/Kannada_2.png (PNG copy)> <./figures/Results/Success/Kannada_3.png (PNG cop
+y)> <./figures/Results/Success/Kannada_4.png (PNG copy)> <./figures/Results/Fai
+lure/Kannada-Telugu_4.png> <./figures/Results/Success/Malayalam_1.jpg> <./figur
+es/Results/Success/Malayalam_2.jpg> <./figures/Results/Success/Malayalam_3.jpg>
+ <./figures/Results/Failure/mal_tam.png> <./figures/Results/Success/Tamil_3.jpg
+> <./figures/Results/Success/Tamil_5.jpg> <./figures/Results/Success/Tamil_1.jp
+g> <./figures/Results/Failure/tam_mal.png> <./figures/Results/Success/Telugu_1.
+png (PNG copy)> <./figures/Results/Success/Telugu_2.png (PNG copy)> <./figures/
+Results/Success/Telugu_3.png (PNG copy)> <./figures/Results/Failure/telugu_kan_
+1.png> <./figures/Results/Success/English_1.jpg> <./figures/Results/Success/Eng
+lish_2.jpg> <./figures/Results/Success/English_3.jpg> <./figures/Results/Failur
+e/eng_kan.png>]
+Package epstopdf Info: Source file: <figures/endtoend.eps>
+(epstopdf)                    date: 2015-12-13 12:44:15
+(epstopdf)                    size: 3727722 bytes
+(epstopdf)             Output file: <figures/endtoend-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-12-13 15:44:35
+(epstopdf)                    size: 169874 bytes
+(epstopdf)             Command: <epstopdf --outfile=figures/endtoend-eps-conver
+ted-to.pdf figures/endtoend.eps>
+(epstopdf)             \includegraphics on input line 475.
+Package epstopdf Info: Output file is already uptodate.
+
+<figures/endtoend-eps-converted-to.pdf, id=174, 465.74pt x 312.16624pt>
+File: figures/endtoend-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/endtoend-eps-converted-to.pdf>
+Package pdftex.def Info: figures/endtoend-eps-converted-to.pdf used on input li
+ne 475.
+(pdftex.def)             Requested size: 232.86943pt x 156.08273pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23])
+[24 <./figures/endtoend-eps-converted-to.pdf>]
+{\it Chapter} 4.
+(./chapter4.tex [25
+
+]
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/r
+ed_hot_1.eps>
+(epstopdf)                    date: 2015-05-25 13:20:19
+(epstopdf)                    size: 136969 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/r
+ed_hot_1-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-05-25 13:20:42
+(epstopdf)                    size: 14399 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/red_hot_1-eps-converted-to.pdf /home/ajeet/Dropbox/Singh_ICDAR15/
+images/red_hot_1.eps>
+(epstopdf)             \includegraphics on input line 27.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/red_hot_1-eps-converted-to.pdf, id=18
+7, 418.56375pt x 57.21375pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/red_hot_1-eps-converted-to.pdf G
+raphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/red_hot_1-eps-converted-to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/red_hot_1-eps
+-converted-to.pdf used on input line 27.
+(pdftex.def)             Requested size: 228.1159pt x 31.18129pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/s
+cript_pic_1.eps>
+(epstopdf)                    date: 2015-05-25 13:25:37
+(epstopdf)                    size: 134717 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/s
+cript_pic_1-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-05-25 13:26:02
+(epstopdf)                    size: 11401 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/script_pic_1-eps-converted-to.pdf /home/ajeet/Dropbox/Singh_ICDAR
+15/images/script_pic_1.eps>
+(epstopdf)             \includegraphics on input line 28.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/script_pic_1-eps-converted-to.pdf, id
+=188, 382.42876pt x 89.33376pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/script_pic_1-eps-converted-to.pd
+f Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/script_pic_1-eps-converted-to.pdf
+>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/script_pic_1-
+eps-converted-to.pdf used on input line 28.
+(pdftex.def)             Requested size: 229.45901pt x 53.60065pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26 </home/ajeet/Dropbox/Singh_ICDAR15/images/red_hot_1-eps-converted-to.pdf> 
+</home/ajeet/Dropbox/Singh_ICDAR15/images/script_pic_1-eps-converted-to.pdf>]
+Underfull \vbox (badness 6526) has occurred while \output is active []
+
+ [27]
+</home/ajeet/Dropbox/Singh_ICDAR15/images/Architecture_Figure_1_3.png, id=202, 
+581.17125pt x 204.765pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/Architecture_Figure_1_3.png Grap
+hic file (type png)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/Architecture_Figure_1_3.png>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/Architecture_
+Figure_1_3.png used on input line 82.
+(pdftex.def)             Requested size: 252.80745pt x 89.07204pt.
+
+[28 </home/ajeet/Dropbox/Singh_ICDAR15/images/Architecture_Figure_1_3.png>]
+[29]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30]
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/K
+annada_wrong_1_tel.eps>
+(epstopdf)                    date: 2015-02-10 10:34:49
+(epstopdf)                    size: 66388 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/K
+annada_wrong_1_tel-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-17 20:49:03
+(epstopdf)                    size: 14317 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/Kannada_wrong_1_tel-eps-converted-to.pdf /home/ajeet/Dropbox/Sing
+h_ICDAR15/images/Kannada_wrong_1_tel.eps>
+(epstopdf)             \includegraphics on input line 224.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/Kannada_wrong_1_tel-eps-converted-to.
+pdf, id=213, 396.48125pt x 104.39pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/Kannada_wrong_1_tel-eps-converte
+d-to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/Kannada_wrong_1_tel-eps-converted
+-to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/Kannada_wrong
+_1_tel-eps-converted-to.pdf used on input line 224.
+(pdftex.def)             Requested size: 46.9465pt x 14.22583pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/K
+annada_wrong_3_tel.eps>
+(epstopdf)                    date: 2015-02-10 10:40:59
+(epstopdf)                    size: 87955 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/K
+annada_wrong_3_tel-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-17 20:48:05
+(epstopdf)                    size: 14399 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/Kannada_wrong_3_tel-eps-converted-to.pdf /home/ajeet/Dropbox/Sing
+h_ICDAR15/images/Kannada_wrong_3_tel.eps>
+(epstopdf)             \includegraphics on input line 224.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/Kannada_wrong_3_tel-eps-converted-to.
+pdf, id=214, 423.5825pt x 95.35625pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/Kannada_wrong_3_tel-eps-converte
+d-to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/Kannada_wrong_3_tel-eps-converted
+-to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/Kannada_wrong
+_3_tel-eps-converted-to.pdf used on input line 224.
+(pdftex.def)             Requested size: 46.94324pt x 14.2257pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/T
+elugu_wrong_1_kan.eps>
+(epstopdf)                    date: 2015-02-10 10:46:26
+(epstopdf)                    size: 58878 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/T
+elugu_wrong_1_kan-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-17 20:48:06
+(epstopdf)                    size: 11745 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/Telugu_wrong_1_kan-eps-converted-to.pdf /home/ajeet/Dropbox/Singh
+_ICDAR15/images/Telugu_wrong_1_kan.eps>
+(epstopdf)             \includegraphics on input line 225.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/Telugu_wrong_1_kan-eps-converted-to.p
+df, id=215, 362.35374pt x 137.51375pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/Telugu_wrong_1_kan-eps-converted
+-to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/Telugu_wrong_1_kan-eps-converted-
+to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/Telugu_wrong_
+1_kan-eps-converted-to.pdf used on input line 225.
+(pdftex.def)             Requested size: 46.94176pt x 14.22638pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/T
+elugu_wrong_2_kan.eps>
+(epstopdf)                    date: 2015-02-10 10:47:36
+(epstopdf)                    size: 55980 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/T
+elugu_wrong_2_kan-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-17 20:48:05
+(epstopdf)                    size: 9772 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/Telugu_wrong_2_kan-eps-converted-to.pdf /home/ajeet/Dropbox/Singh
+_ICDAR15/images/Telugu_wrong_2_kan.eps>
+(epstopdf)             \includegraphics on input line 225.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/Telugu_wrong_2_kan-eps-converted-to.p
+df, id=216, 346.29375pt x 155.58125pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/Telugu_wrong_2_kan-eps-converted
+-to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/Telugu_wrong_2_kan-eps-converted-
+to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/Telugu_wrong_
+2_kan-eps-converted-to.pdf used on input line 225.
+(pdftex.def)             Requested size: 46.94315pt x 14.22485pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/G
+urumukhi_wrong_1_hindi.eps>
+(epstopdf)                    date: 2015-02-10 10:59:55
+(epstopdf)                    size: 62455 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/G
+urumukhi_wrong_1_hindi-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-17 20:49:03
+(epstopdf)                    size: 11634 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/Gurumukhi_wrong_1_hindi-eps-converted-to.pdf /home/ajeet/Dropbox/
+Singh_ICDAR15/images/Gurumukhi_wrong_1_hindi.eps>
+(epstopdf)             \includegraphics on input line 228.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/Gurumukhi_wrong_1_hindi-eps-converted
+-to.pdf, id=217, 376.40625pt x 123.46124pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/Gurumukhi_wrong_1_hindi-eps-conv
+erted-to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/Gurumukhi_wrong_1_hindi-eps-conve
+rted-to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/Gurumukhi_wro
+ng_1_hindi-eps-converted-to.pdf used on input line 228.
+(pdftex.def)             Requested size: 46.94153pt x 14.22505pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/G
+urumukhi_wrong_4_hindi.eps>
+(epstopdf)                    date: 2015-02-10 11:08:50
+(epstopdf)                    size: 33858 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/G
+urumukhi_wrong_4_hindi-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-17 20:49:03
+(epstopdf)                    size: 7990 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/Gurumukhi_wrong_4_hindi-eps-converted-to.pdf /home/ajeet/Dropbox/
+Singh_ICDAR15/images/Gurumukhi_wrong_4_hindi.eps>
+(epstopdf)             \includegraphics on input line 228.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/Gurumukhi_wrong_4_hindi-eps-converted
+-to.pdf, id=218, 345.29pt x 89.33376pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/Gurumukhi_wrong_4_hindi-eps-conv
+erted-to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/Gurumukhi_wrong_4_hindi-eps-conve
+rted-to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/Gurumukhi_wro
+ng_4_hindi-eps-converted-to.pdf used on input line 228.
+(pdftex.def)             Requested size: 46.94406pt x 14.22552pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/H
+indi_wrong_1_gur.eps>
+(epstopdf)                    date: 2015-02-10 11:14:33
+(epstopdf)                    size: 52711 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/H
+indi_wrong_1_gur-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-17 20:48:05
+(epstopdf)                    size: 10474 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/Hindi_wrong_1_gur-eps-converted-to.pdf /home/ajeet/Dropbox/Singh_
+ICDAR15/images/Hindi_wrong_1_gur.eps>
+(epstopdf)             \includegraphics on input line 228.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/Hindi_wrong_1_gur-eps-converted-to.pd
+f, id=219, 340.27126pt x 154.5775pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/Hindi_wrong_1_gur-eps-converted-
+to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/Hindi_wrong_1_gur-eps-converted-t
+o.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/Hindi_wrong_1
+_gur-eps-converted-to.pdf used on input line 228.
+(pdftex.def)             Requested size: 46.9419pt x 14.22507pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/H
+indi_wrong_2_gur.eps>
+(epstopdf)                    date: 2015-02-10 11:17:18
+(epstopdf)                    size: 50453 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/H
+indi_wrong_2_gur-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-17 20:49:03
+(epstopdf)                    size: 9458 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/Hindi_wrong_2_gur-eps-converted-to.pdf /home/ajeet/Dropbox/Singh_
+ICDAR15/images/Hindi_wrong_2_gur.eps>
+(epstopdf)             \includegraphics on input line 228.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/Hindi_wrong_2_gur-eps-converted-to.pd
+f, id=220, 346.29375pt x 138.5175pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/Hindi_wrong_2_gur-eps-converted-
+to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/Hindi_wrong_2_gur-eps-converted-t
+o.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/Hindi_wrong_2
+_gur-eps-converted-to.pdf used on input line 228.
+(pdftex.def)             Requested size: 46.94315pt x 14.22455pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/B
+angla_wrong_1_ass.eps>
+(epstopdf)                    date: 2015-02-10 11:27:51
+(epstopdf)                    size: 33185 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/B
+angla_wrong_1_ass-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-17 20:48:06
+(epstopdf)                    size: 6928 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/Bangla_wrong_1_ass-eps-converted-to.pdf /home/ajeet/Dropbox/Singh
+_ICDAR15/images/Bangla_wrong_1_ass.eps>
+(epstopdf)             \includegraphics on input line 230.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/Bangla_wrong_1_ass-eps-converted-to.p
+df, id=221, 328.22626pt x 104.39pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/Bangla_wrong_1_ass-eps-converted
+-to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/Bangla_wrong_1_ass-eps-converted-
+to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/Bangla_wrong_
+1_ass-eps-converted-to.pdf used on input line 230.
+(pdftex.def)             Requested size: 46.94301pt x 14.22583pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/B
+angla_wrong_2_ass.eps>
+(epstopdf)                    date: 2015-02-10 11:31:45
+(epstopdf)                    size: 22319 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/B
+angla_wrong_2_ass-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-17 20:48:06
+(epstopdf)                    size: 7853 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/Bangla_wrong_2_ass-eps-converted-to.pdf /home/ajeet/Dropbox/Singh
+_ICDAR15/images/Bangla_wrong_2_ass.eps>
+(epstopdf)             \includegraphics on input line 230.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/Bangla_wrong_2_ass-eps-converted-to.p
+df, id=222, 343.2825pt x 54.2025pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/Bangla_wrong_2_ass-eps-converted
+-to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/Bangla_wrong_2_ass-eps-converted-
+to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/Bangla_wrong_
+2_ass-eps-converted-to.pdf used on input line 230.
+(pdftex.def)             Requested size: 46.94351pt x 14.22629pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/A
+ssamese_wrong_1_ban.eps>
+(epstopdf)                    date: 2015-02-10 11:34:50
+(epstopdf)                    size: 50744 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/A
+ssamese_wrong_1_ban-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-17 20:48:06
+(epstopdf)                    size: 11990 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/Assamese_wrong_1_ban-eps-converted-to.pdf /home/ajeet/Dropbox/Sin
+gh_ICDAR15/images/Assamese_wrong_1_ban.eps>
+(epstopdf)             \includegraphics on input line 230.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/Assamese_wrong_1_ban-eps-converted-to
+.pdf, id=223, 338.26375pt x 151.56625pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/Assamese_wrong_1_ban-eps-convert
+ed-to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/Assamese_wrong_1_ban-eps-converte
+d-to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/Assamese_wron
+g_1_ban-eps-converted-to.pdf used on input line 230.
+(pdftex.def)             Requested size: 46.94368pt x 14.22548pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/A
+ssamese_wrong_2_ban.eps>
+(epstopdf)                    date: 2015-03-17 20:49:03
+(epstopdf)                    size: 46230 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/A
+ssamese_wrong_2_ban-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-05-25 12:40:38
+(epstopdf)                    size: 11661 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/Assamese_wrong_2_ban-eps-converted-to.pdf /home/ajeet/Dropbox/Sin
+gh_ICDAR15/images/Assamese_wrong_2_ban.eps>
+(epstopdf)             \includegraphics on input line 230.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/Assamese_wrong_2_ban-eps-converted-to
+.pdf, id=224, 330.23375pt x 151.56625pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/Assamese_wrong_2_ban-eps-convert
+ed-to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/Assamese_wrong_2_ban-eps-converte
+d-to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/Assamese_wron
+g_2_ban-eps-converted-to.pdf used on input line 230.
+(pdftex.def)             Requested size: 46.94289pt x 14.22548pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/4
+_1.eps>
+(epstopdf)                    date: 2015-03-17 20:49:03
+(epstopdf)                    size: 10951 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/4
+_1-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-05-25 12:40:38
+(epstopdf)                    size: 8531 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/4_1-eps-converted-to.pdf /home/ajeet/Dropbox/Singh_ICDAR15/images
+/4_1.eps>
+(epstopdf)             \includegraphics on input line 244.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/4_1-eps-converted-to.pdf, id=228, 410
+.53375pt x 309.155pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/4_1-eps-converted-to.pdf Graphic
+ file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/4_1-eps-converted-to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/4_1-eps-conve
+rted-to.pdf used on input line 244.
+(pdftex.def)             Requested size: 266.84377pt x 200.94836pt.
+
+[32 </home/ajeet/Dropbox/Singh_ICDAR15/images/Kannada_wrong_1_tel-eps-converted
+-to.pdf> </home/ajeet/Dropbox/Singh_ICDAR15/images/Kannada_wrong_3_tel-eps-conv
+erted-to.pdf> </home/ajeet/Dropbox/Singh_ICDAR15/images/Telugu_wrong_1_kan-eps-
+converted-to.pdf> </home/ajeet/Dropbox/Singh_ICDAR15/images/Telugu_wrong_2_kan-
+eps-converted-to.pdf> </home/ajeet/Dropbox/Singh_ICDAR15/images/Gurumukhi_wrong
+_1_hindi-eps-converted-to.pdf> </home/ajeet/Dropbox/Singh_ICDAR15/images/Gurumu
+khi_wrong_4_hindi-eps-converted-to.pdf> </home/ajeet/Dropbox/Singh_ICDAR15/imag
+es/Hindi_wrong_1_gur-eps-converted-to.pdf> </home/ajeet/Dropbox/Singh_ICDAR15/i
+mages/Hindi_wrong_2_gur-eps-converted-to.pdf> </home/ajeet/Dropbox/Singh_ICDAR1
+5/images/Bangla_wrong_1_ass-eps-converted-to.pdf> </home/ajeet/Dropbox/Singh_IC
+DAR15/images/Bangla_wrong_2_ass-eps-converted-to.pdf> </home/ajeet/Dropbox/Sing
+h_ICDAR15/images/Assamese_wrong_1_ban-eps-converted-to.pdf> </home/ajeet/Dropbo
+x/Singh_ICDAR15/images/Assamese_wrong_2_ban-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/F
+rench_wrong_1_spanish.eps>
+(epstopdf)                    date: 2015-03-17 20:48:06
+(epstopdf)                    size: 94711 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/F
+rench_wrong_1_spanish-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-17 20:49:03
+(epstopdf)                    size: 5108 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/French_wrong_1_spanish-eps-converted-to.pdf /home/ajeet/Dropbox/S
+ingh_ICDAR15/images/French_wrong_1_spanish.eps>
+(epstopdf)             \includegraphics on input line 289.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/French_wrong_1_spanish-eps-converted-
+to.pdf, id=270, 436.63126pt x 86.3225pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/French_wrong_1_spanish-eps-conve
+rted-to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/French_wrong_1_spanish-eps-conver
+ted-to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/French_wrong_
+1_spanish-eps-converted-to.pdf used on input line 289.
+(pdftex.def)             Requested size: 46.9436pt x 14.22546pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/F
+rench_wrong_2_spanish.eps>
+(epstopdf)                    date: 2015-02-10 12:42:12
+(epstopdf)                    size: 34181 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/F
+rench_wrong_2_spanish-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-17 20:48:05
+(epstopdf)                    size: 3920 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/French_wrong_2_spanish-eps-converted-to.pdf /home/ajeet/Dropbox/S
+ingh_ICDAR15/images/French_wrong_2_spanish.eps>
+(epstopdf)             \includegraphics on input line 289.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/French_wrong_2_spanish-eps-converted-
+to.pdf, id=271, 362.35374pt x 75.28125pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/French_wrong_2_spanish-eps-conve
+rted-to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/French_wrong_2_spanish-eps-conver
+ted-to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/French_wrong_
+2_spanish-eps-converted-to.pdf used on input line 289.
+(pdftex.def)             Requested size: 46.94176pt x 14.22546pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/S
+panish_wrong_1_french.eps>
+(epstopdf)                    date: 2015-03-17 20:48:05
+(epstopdf)                    size: 61413 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/S
+panish_wrong_1_french-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-17 20:48:05
+(epstopdf)                    size: 4341 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/Spanish_wrong_1_french-eps-converted-to.pdf /home/ajeet/Dropbox/S
+ingh_ICDAR15/images/Spanish_wrong_1_french.eps>
+(epstopdf)             \includegraphics on input line 289.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/Spanish_wrong_1_french-eps-converted-
+to.pdf, id=272, 408.52625pt x 81.30376pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/Spanish_wrong_1_french-eps-conve
+rted-to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/Spanish_wrong_1_french-eps-conver
+ted-to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/Spanish_wrong
+_1_french-eps-converted-to.pdf used on input line 289.
+(pdftex.def)             Requested size: 46.94524pt x 14.22588pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/f
+r1spa.eps>
+(epstopdf)                    date: 2015-06-02 15:18:19
+(epstopdf)                    size: 7365 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/f
+r1spa-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-06-02 15:21:55
+(epstopdf)                    size: 2734 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/fr1spa-eps-converted-to.pdf /home/ajeet/Dropbox/Singh_ICDAR15/ima
+ges/fr1spa.eps>
+(epstopdf)             \includegraphics on input line 289.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/fr1spa-eps-converted-to.pdf, id=273, 
+285.065pt x 82.3075pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/fr1spa-eps-converted-to.pdf Grap
+hic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/fr1spa-eps-converted-to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/fr1spa-eps-co
+nverted-to.pdf used on input line 289.
+(pdftex.def)             Requested size: 46.94669pt x 14.22568pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/f
+r1ger.eps>
+(epstopdf)                    date: 2015-06-02 15:35:54
+(epstopdf)                    size: 10080 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/f
+r1ger-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-06-02 15:37:16
+(epstopdf)                    size: 3199 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/fr1ger-eps-converted-to.pdf /home/ajeet/Dropbox/Singh_ICDAR15/ima
+ges/fr1ger.eps>
+(epstopdf)             \includegraphics on input line 291.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/fr1ger-eps-converted-to.pdf, id=274, 
+421.575pt x 96.36pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/fr1ger-eps-converted-to.pdf Grap
+hic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/fr1ger-eps-converted-to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/fr1ger-eps-co
+nverted-to.pdf used on input line 291.
+(pdftex.def)             Requested size: 46.94589pt x 14.22546pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/G
+erman_wrong_2_french.eps>
+(epstopdf)                    date: 2015-02-10 12:55:02
+(epstopdf)                    size: 29308 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/G
+erman_wrong_2_french-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-17 20:49:01
+(epstopdf)                    size: 3941 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/German_wrong_2_french-eps-converted-to.pdf /home/ajeet/Dropbox/Si
+ngh_ICDAR15/images/German_wrong_2_french.eps>
+(epstopdf)             \includegraphics on input line 291.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/German_wrong_2_french-eps-converted-t
+o.pdf, id=275, 352.31625pt x 69.25874pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/German_wrong_2_french-eps-conver
+ted-to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/German_wrong_2_french-eps-convert
+ed-to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/German_wrong_
+2_french-eps-converted-to.pdf used on input line 291.
+(pdftex.def)             Requested size: 46.9424pt x 14.2256pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/F
+rench_wrong_1_german.eps>
+(epstopdf)                    date: 2015-03-17 20:48:06
+(epstopdf)                    size: 91399 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/F
+rench_wrong_1_german-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-17 20:49:01
+(epstopdf)                    size: 5041 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/French_wrong_1_german-eps-converted-to.pdf /home/ajeet/Dropbox/Si
+ngh_ICDAR15/images/French_wrong_1_german.eps>
+(epstopdf)             \includegraphics on input line 291.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/French_wrong_1_german-eps-converted-t
+o.pdf, id=276, 430.60875pt x 90.3375pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/French_wrong_1_german-eps-conver
+ted-to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/French_wrong_1_german-eps-convert
+ed-to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/French_wrong_
+1_german-eps-converted-to.pdf used on input line 291.
+(pdftex.def)             Requested size: 46.94658pt x 14.22546pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/F
+rench_wrong_2_german.eps>
+(epstopdf)                    date: 2015-02-10 12:57:02
+(epstopdf)                    size: 69922 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/F
+rench_wrong_2_german-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-17 20:48:06
+(epstopdf)                    size: 4488 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/French_wrong_2_german-eps-converted-to.pdf /home/ajeet/Dropbox/Si
+ngh_ICDAR15/images/French_wrong_2_german.eps>
+(epstopdf)             \includegraphics on input line 291.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/French_wrong_2_german-eps-converted-t
+o.pdf, id=277, 410.53375pt x 91.34125pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/French_wrong_2_german-eps-conver
+ted-to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/French_wrong_2_german-eps-convert
+ed-to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/French_wrong_
+2_german-eps-converted-to.pdf used on input line 291.
+(pdftex.def)             Requested size: 46.94415pt x 14.22603pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/M
+arathi_wrong_1_hindi.eps>
+(epstopdf)                    date: 2015-03-17 20:49:03
+(epstopdf)                    size: 37685 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/M
+arathi_wrong_1_hindi-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-05-25 12:40:38
+(epstopdf)                    size: 8668 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/Marathi_wrong_1_hindi-eps-converted-to.pdf /home/ajeet/Dropbox/Si
+ngh_ICDAR15/images/Marathi_wrong_1_hindi.eps>
+(epstopdf)             \includegraphics on input line 293.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/Marathi_wrong_1_hindi-eps-converted-t
+o.pdf, id=278, 350.30875pt x 96.36pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/Marathi_wrong_1_hindi-eps-conver
+ted-to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/Marathi_wrong_1_hindi-eps-convert
+ed-to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/Marathi_wrong
+_1_hindi-eps-converted-to.pdf used on input line 293.
+(pdftex.def)             Requested size: 46.94218pt x 14.22546pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/M
+arathi_wrong_2_hindi.eps>
+(epstopdf)                    date: 2015-02-10 12:07:06
+(epstopdf)                    size: 43669 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/M
+arathi_wrong_2_hindi-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-17 20:48:06
+(epstopdf)                    size: 9298 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/Marathi_wrong_2_hindi-eps-converted-to.pdf /home/ajeet/Dropbox/Si
+ngh_ICDAR15/images/Marathi_wrong_2_hindi.eps>
+(epstopdf)             \includegraphics on input line 293.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/Marathi_wrong_2_hindi-eps-converted-t
+o.pdf, id=279, 334.24875pt x 133.49875pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/Marathi_wrong_2_hindi-eps-conver
+ted-to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/Marathi_wrong_2_hindi-eps-convert
+ed-to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/Marathi_wrong
+_2_hindi-eps-converted-to.pdf used on input line 293.
+(pdftex.def)             Requested size: 46.9424pt x 14.22453pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/H
+indi_wrong_1_mar.eps>
+(epstopdf)                    date: 2015-02-10 11:59:45
+(epstopdf)                    size: 40668 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/H
+indi_wrong_1_mar-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-17 20:49:01
+(epstopdf)                    size: 8195 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/Hindi_wrong_1_mar-eps-converted-to.pdf /home/ajeet/Dropbox/Singh_
+ICDAR15/images/Hindi_wrong_1_mar.eps>
+(epstopdf)             \includegraphics on input line 294.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/Hindi_wrong_1_mar-eps-converted-to.pd
+f, id=280, 331.2375pt x 127.47626pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/Hindi_wrong_1_mar-eps-converted-
+to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/Hindi_wrong_1_mar-eps-converted-t
+o.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/Hindi_wrong_1
+_mar-eps-converted-to.pdf used on input line 294.
+(pdftex.def)             Requested size: 46.94406pt x 14.22472pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/H
+indi_wrong_2_mar.eps>
+(epstopdf)                    date: 2015-02-10 12:03:23
+(epstopdf)                    size: 32413 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/H
+indi_wrong_2_mar-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-17 20:48:05
+(epstopdf)                    size: 8180 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/Hindi_wrong_2_mar-eps-converted-to.pdf /home/ajeet/Dropbox/Singh_
+ICDAR15/images/Hindi_wrong_2_mar.eps>
+(epstopdf)             \includegraphics on input line 294.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/Hindi_wrong_2_mar-eps-converted-to.pd
+f, id=281, 335.2525pt x 94.3525pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/Hindi_wrong_2_mar-eps-converted-
+to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/Hindi_wrong_2_mar-eps-converted-t
+o.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/Hindi_wrong_2
+_mar-eps-converted-to.pdf used on input line 294.
+(pdftex.def)             Requested size: 46.94525pt x 14.22568pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/A
+ssamese_wrong_1_manipuri.eps>
+(epstopdf)                    date: 2015-03-17 20:49:03
+(epstopdf)                    size: 12829 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/A
+ssamese_wrong_1_manipuri-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-05-25 12:40:38
+(epstopdf)                    size: 5054 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/Assamese_wrong_1_manipuri-eps-converted-to.pdf /home/ajeet/Dropbo
+x/Singh_ICDAR15/images/Assamese_wrong_1_manipuri.eps>
+(epstopdf)             \includegraphics on input line 296.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/Assamese_wrong_1_manipuri-eps-convert
+ed-to.pdf, id=282, 178.6675pt x 116.435pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/Assamese_wrong_1_manipuri-eps-co
+nverted-to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/Assamese_wrong_1_manipuri-eps-con
+verted-to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/Assamese_wron
+g_1_manipuri-eps-converted-to.pdf used on input line 296.
+(pdftex.def)             Requested size: 46.94589pt x 14.22565pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/A
+ssamese_wrong_2_manipuri.eps>
+(epstopdf)                    date: 2015-02-10 12:26:43
+(epstopdf)                    size: 23122 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/A
+ssamese_wrong_2_manipuri-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-17 20:48:05
+(epstopdf)                    size: 7681 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/Assamese_wrong_2_manipuri-eps-converted-to.pdf /home/ajeet/Dropbo
+x/Singh_ICDAR15/images/Assamese_wrong_2_manipuri.eps>
+(epstopdf)             \includegraphics on input line 296.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/Assamese_wrong_2_manipuri-eps-convert
+ed-to.pdf, id=283, 316.18124pt x 74.2775pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/Assamese_wrong_2_manipuri-eps-co
+nverted-to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/Assamese_wrong_2_manipuri-eps-con
+verted-to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/Assamese_wron
+g_2_manipuri-eps-converted-to.pdf used on input line 296.
+(pdftex.def)             Requested size: 46.94267pt x 14.2262pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/M
+anipuri_wrong_1_ass.eps>
+(epstopdf)                    date: 2015-03-17 20:49:03
+(epstopdf)                    size: 19084 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/M
+anipuri_wrong_1_ass-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-05-25 12:40:38
+(epstopdf)                    size: 5643 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/Manipuri_wrong_1_ass-eps-converted-to.pdf /home/ajeet/Dropbox/Sin
+gh_ICDAR15/images/Manipuri_wrong_1_ass.eps>
+(epstopdf)             \includegraphics on input line 296.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/Manipuri_wrong_1_ass-eps-converted-to
+.pdf, id=284, 261.97874pt x 99.37125pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/Manipuri_wrong_1_ass-eps-convert
+ed-to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/Manipuri_wrong_1_ass-eps-converte
+d-to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/Manipuri_wron
+g_1_ass-eps-converted-to.pdf used on input line 296.
+(pdftex.def)             Requested size: 46.94626pt x 14.22574pt.
+Package epstopdf Info: Source file: </home/ajeet/Dropbox/Singh_ICDAR15/images/M
+anipuri_wrong_2_ass.eps>
+(epstopdf)                    date: 2015-02-10 12:35:27
+(epstopdf)                    size: 25166 bytes
+(epstopdf)             Output file: </home/ajeet/Dropbox/Singh_ICDAR15/images/M
+anipuri_wrong_2_ass-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-17 20:49:03
+(epstopdf)                    size: 8548 bytes
+(epstopdf)             Command: <epstopdf --outfile=/home/ajeet/Dropbox/Singh_I
+CDAR15/images/Manipuri_wrong_2_ass-eps-converted-to.pdf /home/ajeet/Dropbox/Sin
+gh_ICDAR15/images/Manipuri_wrong_2_ass.eps>
+(epstopdf)             \includegraphics on input line 296.
+Package epstopdf Info: Output file is already uptodate.
+
+</home/ajeet/Dropbox/Singh_ICDAR15/images/Manipuri_wrong_2_ass-eps-converted-to
+.pdf, id=285, 326.21875pt x 75.28125pt>
+File: /home/ajeet/Dropbox/Singh_ICDAR15/images/Manipuri_wrong_2_ass-eps-convert
+ed-to.pdf Graphic file (type pdf)
+
+<use /home/ajeet/Dropbox/Singh_ICDAR15/images/Manipuri_wrong_2_ass-eps-converte
+d-to.pdf>
+Package pdftex.def Info: /home/ajeet/Dropbox/Singh_ICDAR15/images/Manipuri_wron
+g_2_ass-eps-converted-to.pdf used on input line 296.
+(pdftex.def)             Requested size: 46.9446pt x 14.22546pt.
+
+Underfull \vbox (badness 4765) has occurred while \output is active []
+
+ [33 </home/ajeet/Dropbox/Singh_ICDAR15/images/4_1-eps-converted-to.pdf>])
+Underfull \vbox (badness 3138) has occurred while \output is active []
+
+ [34 </home/ajeet/Dropbox/Singh_ICDAR15/images/French_wrong_1_spanish-eps-conve
+rted-to.pdf> </home/ajeet/Dropbox/Singh_ICDAR15/images/French_wrong_2_spanish-e
+ps-converted-to.pdf> </home/ajeet/Dropbox/Singh_ICDAR15/images/Spanish_wrong_1_
+french-eps-converted-to.pdf> </home/ajeet/Dropbox/Singh_ICDAR15/images/fr1spa-e
+ps-converted-to.pdf> </home/ajeet/Dropbox/Singh_ICDAR15/images/fr1ger-eps-conve
+rted-to.pdf> </home/ajeet/Dropbox/Singh_ICDAR15/images/German_wrong_2_french-ep
+s-converted-to.pdf> </home/ajeet/Dropbox/Singh_ICDAR15/images/French_wrong_1_ge
+rman-eps-converted-to.pdf> </home/ajeet/Dropbox/Singh_ICDAR15/images/French_wro
+ng_2_german-eps-converted-to.pdf> </home/ajeet/Dropbox/Singh_ICDAR15/images/Mar
+athi_wrong_1_hindi-eps-converted-to.pdf> </home/ajeet/Dropbox/Singh_ICDAR15/ima
+ges/Marathi_wrong_2_hindi-eps-converted-to.pdf> </home/ajeet/Dropbox/Singh_ICDA
+R15/images/Hindi_wrong_1_mar-eps-converted-to.pdf> </home/ajeet/Dropbox/Singh_I
+CDAR15/images/Hindi_wrong_2_mar-eps-converted-to.pdf> </home/ajeet/Dropbox/Sing
+h_ICDAR15/images/Assamese_wrong_1_manipuri-eps-converted-to.pdf> </home/ajeet/D
+ropbox/Singh_ICDAR15/images/Assamese_wrong_2_manipuri-eps-converted-to.pdf> </h
+ome/ajeet/Dropbox/Singh_ICDAR15/images/Manipuri_wrong_1_ass-eps-converted-to.pd
+f> </home/ajeet/Dropbox/Singh_ICDAR15/images/Manipuri_wrong_2_ass-eps-converted
+-to.pdf>]
+[35]
+{\it Chapter} 5.
+(./conclusion.tex) [36
+
+] (./relatedPapers.tex) (./sampleThesis.bbl [37
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38
+
+])
+
+Package natbib Warning: There were undefined citations.
+
+[39] (./sampleThesis.aux) ) 
+Here is how much of TeX's memory you used:
+ 4532 strings out of 493304
+ 72286 string characters out of 6139871
+ 139291 words of memory out of 5000000
+ 7751 multiletter control sequences out of 15000+600000
+ 52811 words of font info for 107 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 38i,16n,29p,1714b,373s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/
+8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/c
+ourier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/urw/times/utmri8a.pfb>
+Output written on sampleThesis.pdf (50 pages, 5657294 bytes).
+PDF statistics:
+ 412 PDF objects out of 1000 (max. 8388607)
+ 235 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 346 words of extra memory for PDF output out of 10000 (max. 10000000)
+

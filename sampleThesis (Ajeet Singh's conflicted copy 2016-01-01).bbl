@@ -1,0 +1,221 @@
+\begin{thebibliography}{10}\setlength{\itemsep}{-1ex}\small
+
+\bibitem{tessOCR}
+Tesseract {OCR}, http://code.google.com/p/tesseract-ocr/.
+
+\bibitem{labelme}
+{ LabelMe - The Open Annotation Tool}.
+\newblock \url{http://labelme.csail.mit.edu/}.
+
+\bibitem{ethnologue}
+{Ethnologue - webpage}.
+\newblock \url{https://www.ethnologue.com/}.
+
+\bibitem{Authors06b}
+Authors.
+\newblock Frobnication tutorial.
+\newblock 2006.
+\newblock Supplied as additional material {\tt tr.pdf}.
+
+\bibitem{BoureauBLP10}
+Y.~Boureau, F.~R. Bach, Y.~LeCun, and J.~Ponce.
+\newblock {Learning Mid-Level Features for Recognition}.
+\newblock In {\em CVPR}, 2010.
+
+\bibitem{Breuel13}
+T.~Breuel, A.~Ul-Hasan, M.~Al-Azawi, and F.~Shafait.
+\newblock High-performance ocr for printed english and fraktur using lstm
+  networks.
+\newblock In {\em ICDAR}, 2013.
+
+\bibitem{Busch05}
+A.~Busch, W.~Boles, and S.~Sridharan.
+\newblock Texture for script identification.
+\newblock {\em PAMI}, 2005.
+
+\bibitem{Pal}
+S.~Chanda, S.~Pal, K.~Franke, and U.~Pal.
+\newblock {Two-Stage Approach for Word-wise Script Identification}.
+\newblock In {\em ICDAR}, 2009.
+
+\bibitem{sukalpa09}
+S.~Chanda, S.~Pal, K.~Franke, and U.~Pal.
+\newblock Two-stage approach for word-wise script identification.
+\newblock In {\em ICDAR}, 2009.
+
+\bibitem{Dalal05}
+N.~Dalal and B.~Triggs.
+\newblock Histograms of oriented gradients for human detection.
+\newblock In {\em In CVPR}, pages 886--893, 2005.
+
+\bibitem{deCampos09}
+T.~E. de~Campos, B.~R. Babu, and M.~Varma.
+\newblock {Character recognition in natural images}.
+\newblock In {\em VISAPP}, 2009.
+
+\bibitem{FernandoFT14}
+B.~Fernando, {\'{E}}.~Fromont, and T.~Tuytelaars.
+\newblock {Mining Mid-level Features for Image Classification}.
+\newblock {\em IJCV}, 2014.
+
+\bibitem{Ferrer13}
+M.~Ferrer, A.~Morales, and U.~Pal.
+\newblock Lbp based line-wise script identification.
+\newblock In {\em ICDAR}, 2013.
+
+\bibitem{Manmatha12}
+V.~Frinken, A.~Fischer, R.~Manmatha, and H.~Bunke.
+\newblock A novel word spotting method based on recurrent neural networks.
+\newblock {\em PAMI}, 2012.
+
+\bibitem{GhoshDS10}
+D.~Ghosh, T.~Dube, and A.~P. Shivaprasad.
+\newblock {Script Recognition - A Review.}
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, 2010.
+
+\bibitem{Vibhor13}
+V.~Goel, A.~Mishra, K.~Alahari, and C.~Jawahar.
+\newblock Whole is greater than sum of parts: Recognizing scene text words.
+\newblock In {\em ICDAR}, Aug 2013.
+
+\bibitem{GravesFGS06}
+A.~Graves, S.~Fern{\'a}ndez, F.~J. Gomez, and J.~Schmidhuber.
+\newblock {Connectionist Temporal Classification: Labelling Unsegmented
+  Sequence Data with Recurrent Neural Networks}.
+\newblock In {\em ICML}, 2006.
+
+\bibitem{GravesLFBBS09}
+A.~Graves, M.~Liwicki, S.~Fernandez, R.~Bertolami, H.~Bunke, and
+  J.~Schmidhuber.
+\newblock A novel connectionist system for unconstrained handwriting
+  recognition.
+\newblock {\em PAMI}, 2009.
+
+\bibitem{Schmidhuber97}
+S.~Hochreiter and J.~Schmidhuber.
+\newblock Long short-term memory.
+\newblock {\em Neural Computing}, 1997.
+
+\bibitem{Volkmar11}
+R.~Jain, V.~Frinken, C.~V. Jawahar, and R.~Manmatha.
+\newblock Blstm neural network based word retrieval for hindi documents.
+\newblock In {\em ICDAR}, 2011.
+
+\bibitem{KumarJ07}
+C.~V. Jawahar and A.~Kumar.
+\newblock {Content-level Annotation of Large Collection of Printed Document
+  Images}.
+\newblock In {\em ICDAR}, 2007.
+
+\bibitem{JoshiGS07}
+G.~D. Joshi, S.~Garg, and J.~Sivaswamy.
+\newblock {A Generalised Framework for Script Identification}.
+\newblock {\em {IJDAR}}, 2007.
+
+\bibitem{Joshi07}
+G.~D. Joshi, S.~Garg, and J.~Sivaswamy.
+\newblock A generalised framework for script identification.
+\newblock {\em IJDAR}, 2007.
+
+\bibitem{JunejaVJZ13}
+M.~Juneja, A.~Vedaldi, C.~V. Jawahar, and A.~Zisserman.
+\newblock {Blocks That Shout: Distinctive Parts for Scene Classification}.
+\newblock In {\em CVPR}, 2013.
+
+\bibitem{PraveenDAS}
+P.~Krishnan, N.~Sankaran, A.~K. Singh, and C.~V. Jawahar.
+\newblock Towards a robust ocr system for indic scripts.
+\newblock In {\em DAS}, 2014.
+
+\bibitem{Hinton12}
+A.~Krizhevsky, I.~Sutskever, and G.~E. Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In {\em NIPS}. 2012.
+
+\bibitem{GomezK14}
+D.~K. Lluis~Gomez.
+\newblock {A Fast Hierarchical Method for Multi-script and Arbitrary Oriented
+  Scene Text Extraction}.
+\newblock In {\em arXiv:1407.7504}, 2014.
+
+\bibitem{Lowe04}
+D.~G. Lowe.
+\newblock Distinctive image features from scale-invariant keypoints.
+\newblock {\em International Journal of Computer Vision}, 60:91--110, 2004.
+
+\bibitem{MishraBMVC12}
+A.~Mishra, K.~Alahari, and C.~V. Jawahar.
+\newblock {Scene Text Recognition using Higher Order Language Priors}.
+\newblock In {\em BMVC}, 2012.
+
+\bibitem{LBPOjala2002}
+T.~Ojala, M.~Pietikainen, and T.~Maenpaa.
+\newblock {Multiresolution Gray-Scale and Rotation Invariant Texture
+  Classification with Local Binary Patterns}.
+\newblock {\em TPAMI}, 2002.
+
+\bibitem{Pati}
+P.~B. Pati and A.~G. Ramakrishnan.
+\newblock {Word Level Multi-script Identification}.
+\newblock {\em PR Letters}, 2008.
+
+\bibitem{PhanSDLT11}
+T.~Q. Phan, P.~Shivakumara, Z.~Ding, S.~Lu, and C.~L. Tan.
+\newblock {Video Script Identification Based on Text Lines}.
+\newblock In {\em ICDAR}, 2011.
+
+\bibitem{Rashid10}
+S.~Rashid, F.~Shafait, and T.~Breuel.
+\newblock Discriminative learning for script recognition.
+\newblock In {\em ICIP}, Sept 2010.
+
+\bibitem{Manmatha03}
+T.~M. Rath and R.~Manmatha.
+\newblock Features for word spotting in historical manuscripts.
+\newblock In {\em ICDAR}, 2003.
+
+\bibitem{ICDARcomp11}
+A.~Shahab, F.~Shafait, and A.~Dengel.
+\newblock {{\sc ICDAR} 2011 Robust Reading Competition Challenge 2: Reading
+  Text in Scene Images}.
+\newblock In {\em ICDAR}, 2011.
+
+\bibitem{CVSIComp}
+N.~Sharma, R.~Mandal, R.~Sharma, U.~Pal, and M.~Blumenstein.
+\newblock {ICDAR2015 Competition on Video Script Identification(CVSI 2015)}.
+\newblock In {\em ICDAR}, 2015.
+
+\bibitem{SIWIcdar}
+B.~Shi, C.~Yao, C.~Zhang, X.~Guo, F.~Huang, and X.~Bai.
+\newblock {Automatic Script Identification in the Wild}.
+\newblock In {\em ICDAR}, 2015.
+
+\bibitem{Shijian08}
+L.~Shijian and C.~Tan.
+\newblock Script and language identification in noisy and degraded document
+  images.
+\newblock {\em PAMI}, 2008.
+
+\bibitem{scriptICDAR15}
+A.~K. Singh and C.~V. Jawahar.
+\newblock {Can RNNs Reliably Separate Script and Language at Word and Line
+  Level?}
+\newblock In {\em ICDAR}, 2015.
+
+\bibitem{SinghGE12}
+S.~Singh, A.~Gupta, and A.~A. Efros.
+\newblock {Unsupervised Discovery of Mid-Level Discriminative Patches}.
+\newblock In {\em ECCV}, 2012.
+
+\bibitem{Spitz97}
+A.~Spitz.
+\newblock Determination of the script and language content of document images.
+\newblock {\em PAMI}, 1997.
+
+\bibitem{Tan98}
+T.~Tan.
+\newblock Rotation invariant texture features and their use in automatic script
+  identification.
+\newblock {\em PAMI}, 1998.
+
+\end{thebibliography}

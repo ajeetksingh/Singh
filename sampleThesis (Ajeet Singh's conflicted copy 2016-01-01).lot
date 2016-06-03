@@ -1,0 +1,11 @@
+\addvspace {1em}
+\addvspace {1em}
+\addvspace {1em}
+\contentsline {table}{\numberline {3.1}{\ignorespaces The ILST dataset: we introduce a \textsc {ilst} dataset which contains 578 scene images and 4036 cropped images from 5 major Indian languages.}}{16}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Results on ILST (cropped words script identification)}}{19}
+\contentsline {table}{\numberline {3.3}{\ignorespaces Results on ILST (End-to-End pipeline). We use\nobreakspace {}\cite {GomezK14} and tesseract\nobreakspace {}\cite {tessOCR} for text localization and evaluate our proposed method of script identification based on measure presented in Section\nobreakspace {}3.4.2\hbox {}}}{20}
+\contentsline {table}{\numberline {3.4}{\ignorespaces Task specific evaluation on \textsc {cvsi}\nobreakspace {}\cite {CVSIComp}. Here A: Arabic, B: Bengali. E: English, H: Hindi,G: Gujrati, K: Kannada, O: Oriya, P: Punjabi, Ta: Tamil, Te: Telugu. Hence AEH means where script identification of three class namely, Arabic, English and Hindi, is performed and so on. Further, Task-1, Task-2, Task-3 and Task-4 indicates tri-script, north Indian script, south Indian script, all script identification, respectively.}}{23}
+\addvspace {1em}
+\contentsline {table}{\numberline {4.1}{\ignorespaces Table depicts the details of dataset (D1)\nobreakspace {}\cite {KumarJ07} used for script and language identification. It depicts the performance of our method on the D1 at word and line level. It also shows the comparison of our method against Gabor features with \textsc {svm} classifier on D2\nobreakspace {}\cite {Pati}. Since, D2\nobreakspace {}\cite {Pati} didn't show any results on Marathi, Assamese and Manipuri scripts, we are not comparing on these languages.}}{30}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Table depicts the Roman script-based dataset used for language identification. It shows the confusion matrix for language identification for Roman-script dataset. It also depicts the performance of our method on the reported dataset at word and line level.}}{34}
+\addvspace {1em}
